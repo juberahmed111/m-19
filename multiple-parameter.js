@@ -43,5 +43,4 @@ function bugnumbers(numa1, numa2) {
     return foll;
 }
 var toatal = bugnumbers(1000, 60);
-console.log('biyog  foll ', toatal)
-
+console.log('biyog  foll ', toatal);
